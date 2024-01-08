@@ -7,12 +7,18 @@
   - prompt-sync<br>
 
 **cloning repository**<br>
-<pre>git clone https://github.com/haxorstars/email-spammer.git-spammer.git</pre>
+```console
+git clone https://github.com/haxorstars/email-spammer.git
+```
 
 **Installing Dependencies**<br>
-<pre>npm install</pre>
+```console
+npm install
+```
 
 **Usage**<br>
-<pre>node spam-mail.js</pre>
+```console
+node spam-mail.js
+```
 <br><br>
 **_Enjoy Spamming_**
