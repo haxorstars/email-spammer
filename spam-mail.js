@@ -16,7 +16,7 @@ async function main() {
     port: 587,
     secure: false,
     auth: {
-      user: "your-smtp@domain.com",
+      user: "your-smtp-username",
       pass: "your-smtp-password",
     },
   });
